@@ -1,1 +1,2 @@
-# 19104040_IrsyadZulfikar_PEMROGRAMAN PERANGKAT BERGERAK
+# 19104040_IrsyadZulfikar_PPB
+ Repository Untuk Mata Kuliah Pemrograman Perangkat Bergerak
