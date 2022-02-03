@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modul6 Broadcast Receiver</string>
+    <string name="check_sms_permission">Check SMS Permission</string>
+    <string name="coming_form">Coming Form</string>
+    <string name="this_play">This Play</string>
+    <string name="close">Close</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
