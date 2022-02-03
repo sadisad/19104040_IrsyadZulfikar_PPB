@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/Modul 6/app/src/main/res/layout/item_cardview.xml" value="0.1308876811594203" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/Modul 6/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12407407407407407" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/Modul 6/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12407407407407407" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/layout/activity_main.xml" value="0.1461187214611872" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/layout/item_cardview.xml" value="0.1" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/layout/item_grid.xml" value="0.1" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/layout/item_list.xml" value="0.16243654822335024" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Tugas Kuliah/MATKUL/SMT 5/Praktikum Perangkat Bergerak/P5/Pertemuan 5/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
